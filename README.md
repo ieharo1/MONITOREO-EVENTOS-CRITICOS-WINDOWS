@@ -1,4 +1,4 @@
-﻿# Monitoreo de Eventos Criticos Windows - Documentacion Operativa
+﻿# Monitoreo de Eventos Criticos Windows
 
 Script principal: `windows-critical-events-monitor.ps1`
 
